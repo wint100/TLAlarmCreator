@@ -18,8 +18,7 @@
         Dim iptrefobjtype As String : iptrefobjtype = ""
         Dim objrefval As objectLIST
         '---------------------------------------------------------------------------------------------------------------------
-        'initialization
-       
+
         srcobjVIEW.Items.Clear()
 
         newevtlVIEW.Items.Clear()
